@@ -1,0 +1,29 @@
+{
+  "menuItems": [
+    {
+      "id": "86740663-3744-406e-8ae3-7f4889512bbd",
+      "name": "Caesar Salad",
+      "description": "Lettuce, cheese, croutons, dressing",
+      "price": 12.5,
+      "category": "Starter"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "f472c035-b483-4076-9fd7-53fdcb80bfa9",
+      "customerName": "Kazhmurat Sovet",
+      "guests": 1000,
+      "date": "2025-12-20",
+      "time": "19:00",
+      "specialRequests": "Window seat"
+    },
+    {
+      "id": "0c748e3e-3160-4dd9-a73b-91dcf2b9ae7b",
+      "customerName": "Tony Soprano",
+      "guests": 10000,
+      "date": "2025-12-31",
+      "time": "22:00",
+      "specialRequests": "juice with some pulp"
+    }
+  ]
+}
